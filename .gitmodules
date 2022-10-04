@@ -1,0 +1,7 @@
+[submodule "Resources/-b"]
+	path = Resources/-b
+	url = https://github.com/coin-or/qpOASES.git
+[submodule "Resources/qpOASES"]
+	path = Resources/qpOASES
+	url = https://github.com/coin-or/qpOASES.git
+	branch = stable/3.1
